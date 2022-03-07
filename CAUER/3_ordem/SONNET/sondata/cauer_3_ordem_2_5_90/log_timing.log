@@ -1,0 +1,126 @@
+Run 1:  Tue May 14 01:35:17 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\3_ordem\SONNET\cauer_3_ordem_2_5_90.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.244 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Left SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Right SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1176 subsections and 11 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,176
+
+      Required memory by type:
+        System matrix:            11 MB
+        Elemental subsections:
+          Primary structure:      2 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        2 MB
+        Waveguide mode:           1 MB
+        Adaptive band synthesis:  2 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    19 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.078 seconds.
+      Fourier transform time:  0.262 seconds.
+      Coupling time:  2 seconds.
+      Loss time:  0.015 seconds.
+      Matrix fill time:  2 seconds.
+      Matrix solve time:  1 second.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.122 seconds.
+        SOC Magnetic Wall Std: 0.117 seconds.
+        Total:                 0.239 seconds.
+      Total time per frequency:  4 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  0.410 seconds.
+
+    Frequency:  0.75 GHZ
+      ABS time:  0.428 seconds.
+
+    Frequency:  1.43 GHZ
+      ABS time:  0.467 seconds.
+
+    Frequency:  1.09 GHZ
+      ABS time:  0.569 seconds.
+
+    Frequency:  0.12 GHZ
+      ABS time:  0.543 seconds.
+
+    Frequency:  0.06 GHZ
+      ABS time:  0.599 seconds.
+
+    Frequency:  0.32 GHZ
+      ABS time:  0.690 seconds.
+
+    Frequency:  0.04 GHZ
+      ABS time:  0.762 seconds.
+
+    Frequency:  0.01 GHZ
+      ABS time:  0.871 seconds.
+
+    Frequency:  2.31 GHZ
+      ABS time:  0.998 seconds.
+
+    Post-Analysis:
+      Total time for 11 frequencies:  42 seconds.
+
+Analysis completed Tue May 14 01:35:59 2019.
+
+
+Run 2:  Tue May 14 01:42:52 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\3_ordem\SONNET\cauer_3_ordem_2_5_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Tue May 14 01:42:52 2019.
+
+
+Run 2:  Fri May 17 01:15:37 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\3_ordem\SONNET\cauer_3_ordem_2_5_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Fri May 17 01:15:37 2019.
+
+
+Run 2:  Thu May 23 20:38:41 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\3_ordem\SONNET\cauer_3_ordem_2_5_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu May 23 20:38:41 2019.
+
+
+Run 2:  Thu May 23 20:41:23 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\3_ordem\SONNET\cauer_3_ordem_2_5_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu May 23 20:41:23 2019.

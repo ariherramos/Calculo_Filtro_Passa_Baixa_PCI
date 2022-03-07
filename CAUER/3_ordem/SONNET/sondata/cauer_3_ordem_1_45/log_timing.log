@@ -1,0 +1,83 @@
+Run 1:  Mon May 13 00:21:07 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\3_ordem\SONNET\cauer_3_ordem_1_45.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.167 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Left SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Right SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1204 subsections and 12 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,204
+
+      Required memory by type:
+        System matrix:            11 MB
+        Elemental subsections:
+          Primary structure:      1 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        2 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  2 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    19 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.088 seconds.
+      Fourier transform time:  0.212 seconds.
+      Coupling time:  1 second.
+      Loss time:  0.017 seconds.
+      Matrix fill time:  1 second.
+      Matrix solve time:  0.998 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.141 seconds.
+        SOC Magnetic Wall Std: 0.134 seconds.
+        Total:                 0.275 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 0.142 seconds.
+        SOC Magnetic Wall Std: 0.133 seconds.
+        Total:                 0.275 seconds.
+      Total time per frequency:  3 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  0.290 seconds.
+
+    Frequency:  0.62 GHZ
+      ABS time:  0.306 seconds.
+
+    Frequency:  0.97 GHZ
+      ABS time:  0.325 seconds.
+
+    Frequency:  0.82 GHZ
+      ABS time:  0.390 seconds.
+
+    Frequency:  0.19 GHZ
+      ABS time:  0.389 seconds.
+
+    Frequency:  0.09 GHZ
+      ABS time:  0.432 seconds.
+
+    Frequency:  0.06 GHZ
+      ABS time:  0.499 seconds.
+
+    Frequency:  0.38 GHZ
+      ABS time:  0.566 seconds.
+
+    Frequency:  0.01 GHZ
+      ABS time:  0.659 seconds.
+
+    Post-Analysis:
+      Total time for 10 frequencies:  36 seconds.
+
+Analysis completed Mon May 13 00:21:43 2019.
