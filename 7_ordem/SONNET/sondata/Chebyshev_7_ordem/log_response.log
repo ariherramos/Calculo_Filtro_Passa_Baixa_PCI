@@ -1,0 +1,111 @@
+Run 1:  Mon May 13 02:21:34 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem.son.
+
+    Frequency:  1e-9 GHZ
+      Frequency completed Mon May 13 02:21:40 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.00000e-9 0.073723 -77.25 0.986360 4.1806 0.986360 4.1806 0.073723 -77.25
+        !< P1 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< P2 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "sl" code.
+
+    Frequency:  3 GHZ
+      Frequency completed Mon May 13 02:21:45 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 0.988411 -177.7 0.001310 89.651 0.001310 89.651 0.988762 -179.2
+        !< P1 F=3.0 Eeff=(3.25834648 -0.0607105) Z0=(46.6774008 0.39236675) R=1.83269614 C=0.44623438 
+        !< P2 F=3.0 Eeff=(3.20887468 -0.0596328) Z0=(51.5045955 0.42902176) R=2.13866657 C=0.38263728 
+
+    Frequency:  1.38 GHZ
+      Frequency completed Mon May 13 02:21:53 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.38000000 0.972833 -120.4 0.013362 153.93 0.013362 153.93 0.972824 -121.4
+        !< P1 F=1.38 Eeff=(3.23323336 -0.0610914) Z0=(46.5080279 0.37707059) R=4.00290623 C=0.44597246 
+        !< P2 F=1.38 Eeff=(3.18563285 -0.0601392) Z0=(51.3315249 0.41187979) R=4.67081351 C=0.38241711 
+
+    Frequency:  2.1 GHZ
+      Frequency completed Mon May 13 02:21:59 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        2.10000000 0.984891 -155.2 0.001362 116.84 0.001362 116.84 0.984936 -156.5
+        !< P1 F=2.1 Eeff=(3.24162999 -0.0606253) Z0=(46.5592952 0.3848571) R=2.62609631 C=0.44604132 
+        !< P2 F=2.1 Eeff=(3.1933623 -0.0596149) Z0=(51.3835709 0.4207089) R=3.06436728 C=0.38247544 
+
+    Frequency:  0.16 GHZ
+      Frequency completed Mon May 13 02:22:06 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.16000000 0.117939 -155.0 0.977586 -62.98 0.977586 -62.98 0.117947 -155.0
+        !< P1 F=0.16 Eeff=(3.23469075 -0.0693161) Z0=(46.530233 0.31600263) R=34.5683372 C=0.44593558 
+        !< P2 F=0.16 Eeff=(3.18789683 -0.0687275) Z0=(51.3626099 0.34088863) R=40.3353553 C=0.3823855 
+
+    Frequency:  0.32 GHZ
+      Frequency completed Mon May 13 02:22:15 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.32000000 0.008218 145.99 0.971432 -127.1 0.971432 -127.1 0.008290 149.77
+        !< P1 F=0.32 Eeff=(3.23129564 -0.0655577) Z0=(46.5045939 0.34244326) R=17.2832875 C=0.44593686 
+        !< P2 F=0.32 Eeff=(3.18433373 -0.0648152) Z0=(51.3325264 0.37170046) R=20.1666658 C=0.3823866 
+
+    Frequency:  0.02 GHZ
+      Frequency completed Mon May 13 02:22:21 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.02000000 0.020971 -97.84 0.996800 -7.980 0.996800 -7.980 0.020971 -97.84
+        !< P1 F=0.02 Eeff=(3.25818546 -0.0919758) Z0=(46.7038183 0.15844053) R=276.551258 C=0.44593517 
+        !< P2 F=0.02 Eeff=(3.21235094 -0.0923127) Z0=(51.5649516 0.15724137) R=322.688108 C=0.38238514 
+
+    Frequency:  0.89 GHZ
+      Frequency completed Mon May 13 02:22:28 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.89000000 0.398663 8.9191 0.749962 -66.48 0.749962 -66.48 0.398715 8.0232
+        !< P1 F=0.89 Eeff=(3.23023945 -0.0620067) Z0=(46.4923047 0.36861223) R=6.21136021 C=0.44594919 
+        !< P2 F=0.89 Eeff=(3.18296092 -0.0611091) Z0=(51.3163401 0.40213262) R=7.24766272 C=0.38239721 
+
+    Frequency:  0.65 GHZ
+      Frequency completed Mon May 13 02:22:36 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.65000000 0.010609 -126.8 0.935650 87.733 0.935650 87.733 0.011814 -123.8
+        !< P1 F=0.65 Eeff=(3.22980686 -0.0628838) Z0=(46.491454 0.3617765) R=8.50688175 C=0.44594238 
+        !< P2 F=0.65 Eeff=(3.18265762 -0.0620277) Z0=(51.3163555 0.39420256) R=9.926125 C=0.38239136 
+
+    Frequency:  0.01 GHZ
+      Frequency completed Mon May 13 02:22:43 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.01000000 0.010303 -92.52 0.998212 -4.005 0.998212 -4.005 0.010303 -92.52
+        !< P1 F=0.01 Eeff=(3.26943658 -0.1033533) Z0=(46.7869566 0.07965831) R=553.102712 C=0.44593516 
+        !< P2 F=0.01 Eeff=(3.22405303 -0.1041558) Z0=(51.6618001 0.06542472) R=645.376583 C=0.38238514 
+
+    Frequency:  0.05 GHZ
+      Frequency completed Mon May 13 02:22:50 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.05000000 0.052142 -111.1 0.992547 -19.84 0.992547 -19.84 0.052144 -111.1
+        !< P1 F=0.05 Eeff=(3.24448985 -0.0794546) Z0=(46.6028701 0.24519216) R=110.620355 C=0.4459352 
+        !< P2 F=0.05 Eeff=(3.19810147 -0.0792794) Z0=(51.4473178 0.25835376) R=129.075066 C=0.38238517 
+
+Analysis completed Mon May 13 02:22:53 2019.
+
+
+Run 2:  Fri May 17 01:14:51 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem.son.
+
+Analysis completed Fri May 17 01:14:51 2019.
+
+
+Run 2:  Mon Jun 10 21:05:28 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem.son.
+
+Analysis completed Mon Jun 10 21:05:28 2019.

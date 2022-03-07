@@ -1,0 +1,6 @@
+PARAMS
+END PARAMS
+!>< FREQS
+!>< 1.0 3.0e9 1.38e9 2.11e9 2.1e8 3.6e8 3.0e7 9.1e8 7.0e7 1.97e9 6.5e8 1.94e9 2.0e7 1.0e7 3.3e8 2.77e9
+!>< END FREQS
+FILE current_1.sid

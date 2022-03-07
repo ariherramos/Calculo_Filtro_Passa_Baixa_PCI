@@ -1,0 +1,19 @@
+Run 1:  Sun Jun 09 16:55:54 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem_100.son.
+
+    Frequency:  1e-9 GHZ
+
+      Sonnet Warning EG2660:
+      Adaptive band synthesis.
+      Primary structure has potential box resonances.
+      ABS may require large number of discrete frequencies for convergence.
+      See the chapter on package resonances in the Sonnet User's Guide.
+      Date: Sun Jun 09 16:55:54 2019
+
+
+    Post-Analysis:
+      Errors detected: 0    Warnings detected: 1.
+
+Analysis completed Sun Jun 09 16:58:25 2019.

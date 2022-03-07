@@ -1,0 +1,108 @@
+Run 1:  Mon May 13 02:21:34 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.126 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 86 subsections, 2 MB.
+        Left SOC Magnetic Wall: 8 mm length, 81 subsections, 1 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 67 subsections, 2 MB.
+        Right SOC Magnetic Wall: 8 mm length, 63 subsections, 1 MB.
+      Em license feature:  emlite.
+      Circuit requires 1657 subsections and 21 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,657
+
+      Required memory by type:
+        System matrix:            21 MB
+        Elemental subsections:
+          Primary structure:      2 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        2 MB
+        Waveguide mode:           3 MB
+        Adaptive band synthesis:  5 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    33 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.182 seconds.
+      Fourier transform time:  0.990 seconds.
+      Coupling time:  2 seconds.
+      Loss time:  0.019 seconds.
+      Matrix fill time:  3 seconds.
+      Matrix solve time:  1 second.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.031 seconds.
+        SOC Magnetic Wall Std: 0.027 seconds.
+        Total:                 0.058 seconds.
+      De-embedding time for right box wall:
+        SOC Electric Wall Std: 0.027 seconds.
+        SOC Magnetic Wall Std: 0.027 seconds.
+        Total:                 0.054 seconds.
+      Total time per frequency:  5 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  1 second.
+
+    Frequency:  1.38 GHZ
+      ABS time:  0.990 seconds.
+
+    Frequency:  2.1 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.16 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.32 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.02 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.89 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.65 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.01 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.05 GHZ
+      ABS time:  2 seconds.
+
+    Post-Analysis:
+      Total time for 11 frequencies:  1 minute 19 seconds.
+
+Analysis completed Mon May 13 02:22:53 2019.
+
+
+Run 2:  Fri May 17 01:14:51 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Fri May 17 01:14:51 2019.
+
+
+Run 2:  Mon Jun 10 21:05:28 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\7_ordem\SONNET\Chebyshev_7_ordem.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Mon Jun 10 21:05:28 2019.
