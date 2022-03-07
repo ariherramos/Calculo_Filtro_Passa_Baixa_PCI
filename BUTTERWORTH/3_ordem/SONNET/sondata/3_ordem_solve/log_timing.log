@@ -1,0 +1,79 @@
+Run 1:  Sun May 05 16:04:05 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\3_ordem\SONNET\3_ordem_solve.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.7.
+      Subsectioning time:  0.103 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Left SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Right SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1498 subsections and 18 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,498
+
+      Required memory by type:
+        System matrix:            17 MB
+        Elemental subsections:
+          Primary structure:      2 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        3 MB
+        Waveguide mode:           1 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    26 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.080 seconds.
+      Fourier transform time:  0.992 seconds.
+      Coupling time:  2 seconds.
+      Loss time:  0.026 seconds.
+      Matrix fill time:  3 seconds.
+      Matrix solve time:  1 second.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.133 seconds.
+        SOC Magnetic Wall Std: 0.114 seconds.
+        Total:                 0.247 seconds.
+      Total time per frequency:  5 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  0.221 seconds.
+
+    Frequency:  0.87 GHZ
+      ABS time:  0.199 seconds.
+
+    Frequency:  1.67 GHZ
+      ABS time:  0.221 seconds.
+
+    Frequency:  0.3 GHZ
+      ABS time:  0.232 seconds.
+
+    Frequency:  0.1 GHZ
+      ABS time:  0.251 seconds.
+
+    Frequency:  0.49 GHZ
+      ABS time:  0.285 seconds.
+
+    Frequency:  0.05 GHZ
+      ABS time:  0.325 seconds.
+
+    Frequency:  0.01 GHZ
+      ABS time:  0.381 seconds.
+
+    Frequency:  0.02 GHZ
+      ABS time:  0.423 seconds.
+
+    Post-Analysis:
+      Total time for 10 frequencies:  54 seconds.
+
+Analysis completed Sun May 05 16:04:59 2019.

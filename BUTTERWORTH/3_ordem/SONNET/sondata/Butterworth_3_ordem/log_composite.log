@@ -1,0 +1,183 @@
+Run 1:  Mon May 13 02:24:48 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\3_ordem\SONNET\Butterworth_3_ordem.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.228 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Left SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Right SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1724 subsections and 23 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,724
+
+      Required memory by type:
+        System matrix:            23 MB
+        Elemental subsections:
+          Primary structure:      3 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        3 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    33 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.090 seconds.
+      Fourier transform time:  0.494 seconds.
+      Coupling time:  4 seconds.
+      Loss time:  0.025 seconds.
+      Matrix fill time:  5 seconds.
+      Matrix solve time:  2 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.149 seconds.
+        SOC Magnetic Wall Std: 0.113 seconds.
+        Total:                 0.262 seconds.
+      Frequency completed Mon May 13 02:24:56 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.00000e-9 0.287111 -14.74 0.726025 5.7754 0.726025 5.7754 0.287111 -14.74
+        !< P1 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< P2 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "sl" code.
+      Total time per frequency:  7 seconds.
+
+    Frequency:  3 GHZ
+      Frequency completed Mon May 13 02:25:03 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 0.603531 -144.2 0.532577 -23.61 0.532577 -23.61 0.603572 -144.3
+        !< P1 F=3.0 Eeff=(3.22718444 -0.060736) Z0=(49.6369793 0.40939989) R=2.05458308 C=0.39789008 
+        !< P2 F=3.0 Eeff=(3.22718444 -0.060736) Z0=(49.6369793 0.40939989) R=2.05458308 C=0.39789008 
+      ABS time:  0.211 seconds.
+
+    Frequency:  0.92 GHZ
+      Frequency completed Mon May 13 02:25:10 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.92000000 0.786124 -76.43 0.564477 -164.7 0.564477 -164.7 0.786124 -76.43
+        !< P1 F=0.92 Eeff=(3.20120321 -0.0626236) Z0=(49.4544016 0.3801744) R=6.73642478 C=0.39763291 
+        !< P2 F=0.92 Eeff=(3.20120321 -0.0626236) Z0=(49.4544016 0.3801744) R=6.73642478 C=0.39763291 
+      ABS time:  0.224 seconds.
+
+    Frequency:  1.34 GHZ
+      Frequency completed Mon May 13 02:25:17 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.34000000 0.939825 -120.0 0.263837 151.70 0.263837 151.70 0.939826 -120.0
+        !< P1 F=1.34 Eeff=(3.20334995 -0.0615985) Z0=(49.4657779 0.38968577) R=4.6220512 C=0.39765107 
+        !< P2 F=1.34 Eeff=(3.20334995 -0.0615985) Z0=(49.4657779 0.38968577) R=4.6220512 C=0.39765107 
+      ABS time:  0.240 seconds.
+
+    Frequency:  2.19 GHZ
+      Frequency completed Mon May 13 02:25:25 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        2.19000000 0.973771 -159.1 0.141748 111.23 0.141748 111.23 0.973771 -159.1
+        !< P1 F=2.19 Eeff=(3.21267762 -0.0607941) Z0=(49.5267162 0.40131661) R=2.82240682 C=0.39772757 
+        !< P2 F=2.19 Eeff=(3.21267762 -0.0607941) Z0=(49.5267162 0.40131661) R=2.82240682 C=0.39772757 
+      ABS time:  0.274 seconds.
+
+    Frequency:  2.94 GHZ
+      Frequency completed Mon May 13 02:25:32 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        2.94000000 0.345216 -179.9 0.649245 14.359 0.649245 14.359 0.345312 -179.9
+        !< P1 F=2.94 Eeff=(3.22591957 -0.060725) Z0=(49.6266879 0.40884043) R=2.09700986 C=0.39787352 
+        !< P2 F=2.94 Eeff=(3.22591957 -0.060725) Z0=(49.6266879 0.40884043) R=2.09700986 C=0.39787352 
+      ABS time:  0.299 seconds.
+
+    Frequency:  0.38 GHZ
+      Frequency completed Mon May 13 02:25:40 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.38000000 0.094211 26.555 0.980572 -63.82 0.980572 -63.82 0.094211 26.552
+        !< P1 F=0.38 Eeff=(3.20248725 -0.066252) Z0=(49.4692439 0.35155146) R=16.3169571 C=0.39762123 
+        !< P2 F=0.38 Eeff=(3.20248725 -0.066252) Z0=(49.4692439 0.35155146) R=16.3169571 C=0.39762123 
+      ABS time:  0.329 seconds.
+
+    Frequency:  0.47 GHZ
+      Frequency completed Mon May 13 02:25:47 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.47000000 0.184972 8.8786 0.963302 -80.55 0.963302 -80.55 0.184972 8.8767
+        !< P1 F=0.47 Eeff=(3.20170549 -0.0652157) Z0=(49.4625128 0.35948458) R=13.1917531 C=0.39762243 
+        !< P2 F=0.47 Eeff=(3.20170549 -0.0652157) Z0=(49.4625128 0.35948458) R=13.1917531 C=0.39762243 
+      ABS time:  0.381 seconds.
+
+    Frequency:  0.23 GHZ
+      Frequency completed Mon May 13 02:25:55 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.23000000 0.014184 59.128 0.990747 -37.79 0.990747 -37.79 0.014184 59.121
+        !< P1 F=0.23 Eeff=(3.20512838 -0.069184) Z0=(49.4908376 0.32937249) R=26.9601126 C=0.39761981 
+        !< P2 F=0.23 Eeff=(3.20512838 -0.069184) Z0=(49.4908376 0.32937249) R=26.9601126 C=0.39761981 
+      ABS time:  0.426 seconds.
+
+    Frequency:  0.18 GHZ
+      Frequency completed Mon May 13 02:26:03 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.18000000 0.003684 83.073 0.992595 -29.46 0.992595 -29.46 0.003684 83.056
+        !< P1 F=0.18 Eeff=(3.20679235 -0.0708979) Z0=(49.5041813 0.31648521) R=34.4495076 C=0.3976195 
+        !< P2 F=0.18 Eeff=(3.20679235 -0.0708979) Z0=(49.5041813 0.31648521) R=34.4495076 C=0.3976195 
+      ABS time:  0.508 seconds.
+
+    Frequency:  0.03 GHZ
+      Frequency completed Mon May 13 02:26:10 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.03000000 8.906e-4 -77.38 0.998173 -4.917 0.998173 -4.917 8.906e-4 -77.37
+        !< P1 F=0.03 Eeff=(3.22864591 -0.0918373) Z0=(49.6775125 0.16026682) R=206.701427 C=0.39761902 
+        !< P2 F=0.03 Eeff=(3.22864591 -0.0918373) Z0=(49.6775125 0.16026682) R=206.701427 C=0.39761902 
+      ABS time:  0.549 seconds.
+
+    Frequency:  0.01 GHZ
+      Frequency completed Mon May 13 02:26:19 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.01000000 2.917e-4 -17.51 0.999199 -1.651 0.999199 -1.651 2.917e-4 -17.51
+        !< P1 F=0.01 Eeff=(3.25109821 -0.1115626) Z0=(49.8547951 0.0146315) R=620.104577 C=0.397619 
+        !< P2 F=0.01 Eeff=(3.25109821 -0.1115626) Z0=(49.8547951 0.0146315) R=620.104577 C=0.397619 
+      ABS time:  0.698 seconds.
+
+    Post-Analysis:
+      Total time for 12 frequencies:  1 minute 31 seconds.
+      Errors detected: 0    Warnings detected: 0.
+
+Analysis completed Mon May 13 02:26:19 2019.
+
+
+Run 2:  Mon May 13 02:42:22 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\3_ordem\SONNET\Butterworth_3_ordem.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+      Errors detected: 0    Warnings detected: 0.
+
+Analysis completed Mon May 13 02:42:22 2019.
+
+
+Run 2:  Fri May 17 01:10:46 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\3_ordem\SONNET\Butterworth_3_ordem.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+      Errors detected: 0    Warnings detected: 0.
+
+Analysis completed Fri May 17 01:10:46 2019.
