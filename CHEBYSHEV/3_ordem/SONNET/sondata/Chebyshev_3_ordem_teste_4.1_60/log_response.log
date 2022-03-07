@@ -1,0 +1,87 @@
+Run 1:  Mon Jun 10 20:57:27 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CHEBYSHEV\3_ordem\SONNET\Chebyshev_3_ordem_teste_4.1_60.son.
+
+    Frequency:  1e-9 GHZ
+      Frequency completed Mon Jun 10 20:57:39 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.00000e-9 0.232660 62.777 0.917208 -13.04 0.917208 -13.04 0.232660 62.777
+        !< P1 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< P2 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "sl" code.
+
+    Frequency:  3 GHZ
+      Frequency completed Mon Jun 10 20:57:50 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 0.985554 -173.0 0.065831 98.543 0.065831 98.543 0.985553 -173.0
+        !< P1 F=3.0 Eeff=(3.22922399 -0.0607677) Z0=(49.6566479 0.40954653) R=2.05460654 C=0.39790711 
+        !< P2 F=3.0 Eeff=(3.22922399 -0.0607677) Z0=(49.6566479 0.40954653) R=2.05460654 C=0.39790711 
+
+    Frequency:  0.57 GHZ
+      Frequency completed Mon Jun 10 20:58:02 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.57000000 0.136433 -160.4 0.974851 -69.29 0.974851 -69.29 0.136433 -160.4
+        !< P1 F=0.57 Eeff=(3.20243598 -0.0643902) Z0=(49.4674214 0.36614471) R=10.8766506 C=0.39762443 
+        !< P2 F=0.57 Eeff=(3.20243598 -0.0643902) Z0=(49.4674214 0.36614471) R=10.8766506 C=0.39762443 
+
+    Frequency:  1.85 GHZ
+      Frequency completed Mon Jun 10 20:58:13 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.85000000 0.956892 -137.7 0.203852 134.45 0.203852 134.45 0.956892 -137.7
+        !< P1 F=1.85 Eeff=(3.209675 -0.0610142) Z0=(49.5086646 0.39741391) R=3.34421119 C=0.3976932 
+        !< P2 F=1.85 Eeff=(3.209675 -0.0610142) Z0=(49.5086646 0.39741391) R=3.34421119 C=0.3976932 
+
+    Frequency:  1.13 GHZ
+      Frequency completed Mon Jun 10 20:58:24 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.13000000 0.609065 -71.16 0.742788 -158.5 0.742788 -158.5 0.609066 -71.16
+        !< P1 F=1.13 Eeff=(3.2033378 -0.0620466) Z0=(49.468747 0.38559836) R=5.48293685 C=0.39764223 
+        !< P2 F=1.13 Eeff=(3.2033378 -0.0620466) Z0=(49.468747 0.38559836) R=5.48293685 C=0.39764223 
+
+    Frequency:  0.75 GHZ
+      Frequency completed Mon Jun 10 20:58:37 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.75000000 0.006103 -44.62 0.976965 -94.45 0.976965 -94.45 0.006109 -44.68
+        !< P1 F=0.75 Eeff=(3.2021857 -0.0633297) Z0=(49.463909 0.37457701) R=8.26493214 C=0.39762861 
+        !< P2 F=0.75 Eeff=(3.2021857 -0.0633297) Z0=(49.463909 0.37457701) R=8.26493214 C=0.39762861 
+
+    Frequency:  0.15 GHZ
+      Frequency completed Mon Jun 10 20:58:48 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.15000000 0.085163 -109.7 0.991455 -18.21 0.991455 -18.21 0.085163 -109.7
+        !< P1 F=0.15 Eeff=(3.20940167 -0.0723312) Z0=(49.5246905 0.30599301) R=41.3396854 C=0.39761937 
+        !< P2 F=0.15 Eeff=(3.20940167 -0.0723312) Z0=(49.5246905 0.30599301) R=41.3396854 C=0.39761937 
+
+    Frequency:  0.25 GHZ
+      Frequency completed Mon Jun 10 20:59:00 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.25000000 0.130392 -121.8 0.983885 -30.21 0.983885 -30.21 0.130392 -121.8
+        !< P1 F=0.25 Eeff=(3.20582971 -0.0686667) Z0=(49.4960905 0.33352891) R=24.8031436 C=0.39762002 
+        !< P2 F=0.25 Eeff=(3.20582971 -0.0686667) Z0=(49.4960905 0.33352891) R=24.8031436 C=0.39762002 
+
+    Frequency:  0.03 GHZ
+      Frequency completed Mon Jun 10 20:59:12 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.03000000 0.017552 -94.28 0.998554 -3.670 0.998554 -3.670 0.017552 -94.28
+        !< P1 F=0.03 Eeff=(3.22985332 -0.091858) Z0=(49.6867974 0.1604019) R=206.701431 C=0.39761902 
+        !< P2 F=0.03 Eeff=(3.22985332 -0.091858) Z0=(49.6867974 0.1604019) R=206.701431 C=0.39761902 
+
+    Frequency:  0.01 GHZ
+      Frequency completed Mon Jun 10 20:59:25 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.01000000 0.005748 -90.85 0.999452 -1.230 0.999452 -1.230 0.005748 -90.85
+        !< P1 F=0.01 Eeff=(3.2523054 -0.1115834) Z0=(49.8640461 0.0147949) R=620.104462 C=0.39761901 
+        !< P2 F=0.01 Eeff=(3.2523054 -0.1115834) Z0=(49.8640461 0.0147949) R=620.104462 C=0.39761901 
+
+Analysis completed Mon Jun 10 20:59:26 2019.
