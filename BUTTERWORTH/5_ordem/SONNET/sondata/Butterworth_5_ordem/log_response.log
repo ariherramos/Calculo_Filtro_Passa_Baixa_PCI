@@ -1,0 +1,111 @@
+Run 1:  Mon May 13 02:27:04 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\5_ordem\SONNET\Butterworth_5_ordem.son.
+
+    Frequency:  1e-9 GHZ
+      Frequency completed Mon May 13 02:27:06 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.00000e-9 0.075455 52.449 0.955887 -3.588 0.955887 -3.588 0.075455 52.449
+        !< P1 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< P2 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "sl" code.
+
+    Frequency:  3 GHZ
+      Frequency completed Mon May 13 02:27:08 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 0.982650 -163.4 0.020736 -74.84 0.020736 -74.84 0.982651 -163.4
+        !< P1 F=3.0 Eeff=(3.20887468 -0.0596328) Z0=(51.5045955 0.42902176) R=2.13866657 C=0.38263728 
+        !< P2 F=3.0 Eeff=(3.20887468 -0.0596328) Z0=(51.5045955 0.42902176) R=2.13866657 C=0.38263728 
+
+    Frequency:  0.45 GHZ
+      Frequency completed Mon May 13 02:27:10 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.45000000 0.011291 122.52 0.974786 -114.5 0.974786 -114.5 0.011289 122.53
+        !< P1 F=0.45 Eeff=(3.1832244 -0.0633422) Z0=(51.3226108 0.38345383) R=14.339801 C=0.38238806 
+        !< P2 F=0.45 Eeff=(3.1832244 -0.0633422) Z0=(51.3226108 0.38345383) R=14.339801 C=0.38238806 
+
+    Frequency:  0.65 GHZ
+      Frequency completed Mon May 13 02:27:12 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.65000000 0.136544 91.642 0.949423 -173.1 0.949423 -173.1 0.136544 91.641
+        !< P1 F=0.65 Eeff=(3.18265762 -0.0620277) Z0=(51.3163555 0.39420256) R=9.926125 C=0.38239136 
+        !< P2 F=0.65 Eeff=(3.18265762 -0.0620277) Z0=(51.3163555 0.39420256) R=9.926125 C=0.38239136 
+
+    Frequency:  0.04 GHZ
+      Frequency completed Mon May 13 02:27:15 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.04000000 0.004347 -99.91 0.996771 -9.954 0.996771 -9.954 0.004347 -99.91
+        !< P1 F=0.04 Eeff=(3.20090927 -0.0821348) Z0=(51.4705755 0.23608421) R=161.343945 C=0.38238516 
+        !< P2 F=0.04 Eeff=(3.20090927 -0.0821348) Z0=(51.4705755 0.23608421) R=161.343945 C=0.38238516 
+
+    Frequency:  0.1 GHZ
+      Frequency completed Mon May 13 02:27:17 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.10000000 0.011309 -121.8 0.993369 -24.82 0.993369 -24.82 0.011309 -121.8
+        !< P1 F=0.1 Eeff=(3.1913017 -0.0722638) Z0=(51.3909306 0.31318306) R=64.5372243 C=0.38238528 
+        !< P2 F=0.1 Eeff=(3.1913017 -0.0722638) Z0=(51.3909306 0.31318306) R=64.5372243 C=0.38238528 
+
+    Frequency:  1.42 GHZ
+      Frequency completed Mon May 13 02:27:20 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.42000000 0.964320 -92.03 0.088682 0.6940 0.088682 0.6940 0.964321 -92.03
+        !< P1 F=1.42 Eeff=(3.18594998 -0.0600896) Z0=(51.3335067 0.4124821) R=4.53890849 C=0.38241932 
+        !< P2 F=1.42 Eeff=(3.18594998 -0.0600896) Z0=(51.3335067 0.4124821) R=4.53890849 C=0.38241932 
+
+    Frequency:  0.06 GHZ
+      Frequency completed Mon May 13 02:27:22 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.06000000 0.006816 -108.5 0.995594 -14.91 0.995594 -14.91 0.006816 -108.5
+        !< P1 F=0.06 Eeff=(3.19606876 -0.0771782) Z0=(51.4304686 0.27476192) R=107.56249 C=0.38238519 
+        !< P2 F=0.06 Eeff=(3.19606876 -0.0771782) Z0=(51.4304686 0.27476192) R=107.56249 C=0.38238519 
+
+    Frequency:  0.36 GHZ
+      Frequency completed Mon May 13 02:27:25 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.36000000 0.011152 149.64 0.979994 -90.58 0.979994 -90.58 0.011150 149.65
+        !< P1 F=0.36 Eeff=(3.18389757 -0.0642766) Z0=(51.3287149 0.37597911) R=17.9256059 C=0.382387 
+        !< P2 F=0.36 Eeff=(3.18389757 -0.0642766) Z0=(51.3287149 0.37597911) R=17.9256059 C=0.382387 
+
+    Frequency:  0.01 GHZ
+      Frequency completed Mon May 13 02:27:28 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.01000000 8.232e-4 -68.70 0.998862 -2.508 0.998862 -2.508 8.232e-4 -68.70
+        !< P1 F=0.01 Eeff=(3.22405303 -0.1041558) Z0=(51.6618001 0.06542472) R=645.376583 C=0.38238514 
+        !< P2 F=0.01 Eeff=(3.22405303 -0.1041558) Z0=(51.6618001 0.06542472) R=645.376583 C=0.38238514 
+
+    Frequency:  0.02 GHZ
+      Frequency completed Mon May 13 02:27:31 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.02000000 0.001881 -85.63 0.998082 -4.997 0.998082 -4.997 0.001881 -85.63
+        !< P1 F=0.02 Eeff=(3.21235094 -0.0923127) Z0=(51.5649516 0.15724137) R=322.688108 C=0.38238514 
+        !< P2 F=0.02 Eeff=(3.21235094 -0.0923127) Z0=(51.5649516 0.15724137) R=322.688108 C=0.38238514 
+
+Analysis completed Mon May 13 02:27:32 2019.
+
+
+Run 2:  Mon May 13 02:43:44 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\5_ordem\SONNET\Butterworth_5_ordem.son.
+
+Analysis completed Mon May 13 02:43:44 2019.
+
+
+Run 2:  Fri May 17 01:11:57 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\5_ordem\SONNET\Butterworth_5_ordem.son.
+
+Analysis completed Fri May 17 01:11:57 2019.

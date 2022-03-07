@@ -1,0 +1,20 @@
+Run 1:  Mon May 13 01:53:17 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\BUTTERWORTH\5_ordem\Butterworth_5_ordem.son.
+
+    Frequency:  1e-9 GHZ
+
+      Sonnet Error EG5850:
+      Sonnet Lite Limitation
+      Butterworth_5_ordem.son exceeds your Sonnet Lite license because:
+      Analysis requires 40 MB. Sonnet Lite is restricted to 32 MB.
+      Contact your Sonnet Software
+      representative for information about upgrading your license.
+      Date: Mon May 13 01:53:17 2019
+
+
+    Post-Analysis:
+      Errors detected: 1    Warnings detected: 0.
+
+Analysis failed due to error Mon May 13 01:53:17 2019.
