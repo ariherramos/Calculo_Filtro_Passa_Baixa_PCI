@@ -1,0 +1,70 @@
+Run 1:  Thu Jun 20 16:48:50 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CABO\10.05.2019\Chebyshev_3_ordem_teste_4.7.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.85.
+      Subsectioning time:  0.167 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 143 subsections, 3 MB.
+        Left SOC Magnetic Wall: 8 mm length, 135 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 143 subsections, 3 MB.
+        Right SOC Magnetic Wall: 8 mm length, 135 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1676 subsections and 22 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,676
+
+      Required memory by type:
+        System matrix:            21 MB
+        Elemental subsections:
+          Primary structure:      3 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        2 MB
+        Waveguide mode:           1 MB
+        Adaptive band synthesis:  1 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    30 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.074 seconds.
+      Fourier transform time:  0.198 seconds.
+      Coupling time:  3 seconds.
+      Loss time:  0.021 seconds.
+      Matrix fill time:  4 seconds.
+      Matrix solve time:  1 second.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.117 seconds.
+        SOC Magnetic Wall Std: 0.157 seconds.
+        Total:                 0.274 seconds.
+      Total time per frequency:  6 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  0.247 seconds.
+
+    Frequency:  0.57 GHZ
+      ABS time:  0.213 seconds.
+
+    Frequency:  0.84 GHZ
+      ABS time:  0.432 seconds.
+
+    Frequency:  0.11 GHZ
+      ABS time:  0.449 seconds.
+
+    Frequency:  2.47 GHZ
+      ABS time:  0.269 seconds.
+
+    Frequency:  0.75 GHZ
+      ABS time:  0.301 seconds.
+
+    Post-Analysis:
+      Total time for 7 frequencies:  57 seconds.
+
+Analysis completed Thu Jun 20 16:49:47 2019.

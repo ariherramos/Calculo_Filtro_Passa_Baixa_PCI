@@ -1,0 +1,71 @@
+Run 1:  Tue Jun 18 22:46:56 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CABO\10.05.2019\Chebyshev_3_ordem_teste_4.7_dieletrico4.1.son.
+
+    Frequency:  1e-9 GHZ
+      Frequency completed Tue Jun 18 22:47:02 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.00000e-9 0.058069 47.321 0.961583 -2.545 0.961583 -2.545 0.058069 47.321
+        !< P1 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< P2 F=1.0e-9 Eeff=(undefined: sl) Z0=(undefined: sl) R=0.0 C=0.0 
+        !< See "De-embedding Codes" in Help for more details on the "sl" code.
+
+    Frequency:  3 GHZ
+      Frequency completed Tue Jun 18 22:47:09 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        3.00000000 0.984143 -169.7 0.071485 101.92 0.071485 101.92 0.984142 -169.7
+        !< P1 F=3.0 Eeff=(3.19769777 -0.0601338) Z0=(52.8288207 0.43266362) R=2.27307433 C=0.35977053 
+        !< P2 F=3.0 Eeff=(3.19769777 -0.0601338) Z0=(52.8288207 0.43266362) R=2.27307433 C=0.35977053 
+
+    Frequency:  0.59 GHZ
+      Frequency completed Tue Jun 18 22:47:15 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.59000000 0.102205 -159.7 0.979311 -68.27 0.979311 -68.27 0.102205 -159.7
+        !< P1 F=0.59 Eeff=(3.17263999 -0.0638285) Z0=(52.641003 0.38632392) R=11.6245868 C=0.35951908 
+        !< P2 F=0.59 Eeff=(3.17263999 -0.0638285) Z0=(52.641003 0.38632392) R=11.6245868 C=0.35951908 
+
+    Frequency:  1.14 GHZ
+      Frequency completed Tue Jun 18 22:47:21 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        1.14000000 0.561650 -63.08 0.780975 -150.6 0.780975 -150.6 0.561650 -63.08
+        !< P1 F=1.14 Eeff=(3.17340932 -0.0615181) Z0=(52.6414882 0.40685973) R=6.01241034 C=0.35953525 
+        !< P2 F=1.14 Eeff=(3.17340932 -0.0615181) Z0=(52.6414882 0.40685973) R=6.01241034 C=0.35953525 
+
+    Frequency:  0.85 GHZ
+      Frequency completed Tue Jun 18 22:47:27 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.85000000 0.122869 -17.26 0.966139 -104.0 0.966139 -104.0 0.122870 -17.27
+        !< P1 F=0.85 Eeff=(3.17245443 -0.0624311) Z0=(52.6369421 0.3983506) R=8.0668121 C=0.35952514 
+        !< P2 F=0.85 Eeff=(3.17245443 -0.0624311) Z0=(52.6369421 0.3983506) R=8.0668121 C=0.35952514 
+
+    Frequency:  0.74 GHZ
+      Frequency completed Tue Jun 18 22:47:33 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        0.74000000 0.002215 -120.5 0.979216 -87.93 0.979216 -87.93 0.002221 -120.4
+        !< P1 F=0.74 Eeff=(3.17238438 -0.0629269) Z0=(52.6374883 0.39399941) R=9.26701593 C=0.35952226 
+        !< P2 F=0.74 Eeff=(3.17238438 -0.0629269) Z0=(52.6374883 0.39399941) R=9.26701593 C=0.35952226 
+
+    Frequency:  2.59 GHZ
+      Frequency completed Tue Jun 18 22:47:39 2019.
+      De-embedded S-Parameters. 50.0 Ohm Port Terminations.
+      Magnitude/Angle. Touchstone Format. (S11 S21 S12 S22).
+        2.59000000 0.979766 -159.6 0.097775 112.30 0.097775 112.30 0.979766 -159.6
+        !< P1 F=2.59 Eeff=(3.18986845 -0.0601248) Z0=(52.7620351 0.42844913) R=2.63688868 C=0.35967899 
+        !< P2 F=2.59 Eeff=(3.18986845 -0.0601248) Z0=(52.7620351 0.42844913) R=2.63688868 C=0.35967899 
+
+Analysis completed Tue Jun 18 22:47:39 2019.
+
+
+Run 2:  Tue Jun 18 22:47:58 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CABO\10.05.2019\Chebyshev_3_ordem_teste_4.7_dieletrico4.1.son.
+
+Analysis completed Tue Jun 18 22:47:58 2019.
