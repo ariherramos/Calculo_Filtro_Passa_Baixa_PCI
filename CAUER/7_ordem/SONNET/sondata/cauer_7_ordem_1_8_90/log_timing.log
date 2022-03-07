@@ -1,0 +1,184 @@
+Run 1:  Tue May 14 01:13:18 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\7_ordem\SONNET\cauer_7_ordem_1_8_90.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.064 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 67 subsections, 2 MB.
+        Left SOC Magnetic Wall: 8 mm length, 63 subsections, 1 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 67 subsections, 2 MB.
+        Right SOC Magnetic Wall: 8 mm length, 63 subsections, 1 MB.
+      Em license feature:  emlite.
+      Circuit requires 1196 subsections and 11 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,196
+
+      Required memory by type:
+        System matrix:            11 MB
+        Elemental subsections:
+          Primary structure:      1 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        1 MB
+        Waveguide mode:           3 MB
+        Adaptive band synthesis:  5 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    22 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.154 seconds.
+      Fourier transform time:  0.110 seconds.
+      Coupling time:  1 second.
+      Loss time:  0.010 seconds.
+      Matrix fill time:  1 second.
+      Matrix solve time:  0.621 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.029 seconds.
+        SOC Magnetic Wall Std: 0.024 seconds.
+        Total:                 0.053 seconds.
+      Total time per frequency:  2 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  0.826 seconds.
+
+    Frequency:  0.64 GHZ
+      ABS time:  0.873 seconds.
+
+    Frequency:  0.91 GHZ
+      ABS time:  0.954 seconds.
+
+Analysis stopped Tue May 14 01:13:30 2019 with signal 15.
+
+
+Run 2:  Tue May 14 01:13:40 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\7_ordem\SONNET\cauer_7_ordem_1_8_90.son.
+
+    Pre-Analysis:
+      ABS time:  1 second.
+
+    Frequency:  0.76 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.065 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 67 subsections, 6 MB.
+        Left SOC Magnetic Wall: 8 mm length, 63 subsections, 6 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 67 subsections, 6 MB.
+        Right SOC Magnetic Wall: 8 mm length, 63 subsections, 6 MB.
+      Em license feature:  emlite.
+      Circuit requires 1196 subsections and 11 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,196
+
+      Required memory by type:
+        System matrix:            11 MB
+        Elemental subsections:
+          Primary structure:      1 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        1 MB
+        Waveguide mode:           3 MB
+        Adaptive band synthesis:  5 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    22 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.160 seconds.
+      Fourier transform time:  0.110 seconds.
+      Coupling time:  1 second.
+      Loss time:  0.011 seconds.
+      Matrix fill time:  1 second.
+      Matrix solve time:  0.665 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.037 seconds.
+        SOC Magnetic Wall Std: 0.026 seconds.
+        Total:                 0.064 seconds.
+      Total time per frequency:  3 seconds.
+      ABS time:  1 second.
+
+    Frequency:  1.81 GHZ
+      ABS time:  1 second.
+
+    Frequency:  2.13 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.41 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.25 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.11 GHZ
+      ABS time:  1 second.
+
+    Frequency:  0.07 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  0.05 GHZ
+      ABS time:  2 seconds.
+
+    Frequency:  2.78 GHZ
+      ABS time:  2 seconds.
+
+    Post-Analysis:
+      Total time for 9 frequencies:  38 seconds.
+
+Analysis completed Tue May 14 01:14:18 2019.
+
+
+Run 3:  Wed May 15 23:28:43 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\7_ordem\SONNET\cauer_7_ordem_1_8_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Wed May 15 23:28:43 2019.
+
+
+Run 3:  Fri May 17 01:17:14 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\7_ordem\SONNET\cauer_7_ordem_1_8_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Fri May 17 01:17:14 2019.
+
+
+Run 3:  Thu May 23 20:40:29 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\7_ordem\SONNET\cauer_7_ordem_1_8_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu May 23 20:40:29 2019.
+
+
+Run 3:  Thu May 23 20:42:13 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\7_ordem\SONNET\cauer_7_ordem_1_8_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu May 23 20:42:13 2019.

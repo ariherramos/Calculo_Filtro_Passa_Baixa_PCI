@@ -1,0 +1,121 @@
+Run 1:  Tue May 14 01:17:53 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\5_ordem\SONNET\cauer_5_ordem_2_90.son.
+
+    Frequency:  1e-9 GHZ
+      Subsectioning at 3 GHz with Eeff of 2.55.
+      Subsectioning time:  0.271 seconds.
+      De-embedding information for left box wall port(s):
+        Left SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Left SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      De-embedding information for right box wall port(s):
+        Right SOC Electric Wall: 4 mm length, 162 subsections, 3 MB.
+        Right SOC Magnetic Wall: 8 mm length, 153 subsections, 3 MB.
+      Em license feature:  emlite.
+      Circuit requires 1808 subsections and 25 MB of memory.
+
+      Subsections by level and type:
+      Level 0:
+        Staircase:  1,808
+
+      Required memory by type:
+        System matrix:            25 MB
+        Elemental subsections:
+          Primary structure:      4 MB
+          Left standard:          0 MB
+          Right standard:         0 MB
+        Fourier transform:        4 MB
+        Waveguide mode:           2 MB
+        Adaptive band synthesis:  2 MB
+        Miscellaneous:            1 MB
+        TOTAL REQUIRED MEMORY:    38 MB
+
+      Matrix solver:  internal 32-bit SSE with loss.
+      Simulation mode:  local machine.
+      Threads:  using 1 thread(s), 4 core(s) available.
+      Waveguide mode time:  0.106 seconds.
+      Fourier transform time:  0.358 seconds.
+      Coupling time:  6 seconds.
+      Loss time:  0.027 seconds.
+      Matrix fill time:  6 seconds.
+      Matrix solve time:  3 seconds.
+      De-embedding time for left box wall:
+        SOC Electric Wall Std: 0.121 seconds.
+        SOC Magnetic Wall Std: 0.116 seconds.
+        Total:                 0.237 seconds.
+      Total time per frequency:  10 seconds.
+
+    Frequency:  3 GHZ
+      ABS time:  0.389 seconds.
+
+    Frequency:  0.01 GHZ
+      ABS time:  0.523 seconds.
+
+    Frequency:  2.98 GHZ
+      ABS time:  0.442 seconds.
+
+    Frequency:  0.05 GHZ
+      ABS time:  0.497 seconds.
+
+    Frequency:  0.03 GHZ
+      ABS time:  0.522 seconds.
+
+    Frequency:  0.02 GHZ
+      ABS time:  0.594 seconds.
+
+    Frequency:  0.93 GHZ
+      ABS time:  0.681 seconds.
+
+    Frequency:  1.6 GHZ
+      ABS time:  0.747 seconds.
+
+    Frequency:  0.24 GHZ
+      ABS time:  0.902 seconds.
+
+    Frequency:  0.4 GHZ
+      ABS time:  0.994 seconds.
+
+    Frequency:  1.79 GHZ
+      ABS time:  1 second.
+
+    Frequency:  2.47 GHZ
+      ABS time:  1 second.
+
+    Post-Analysis:
+      Total time for 13 frequencies:  2 minutes 12 seconds.
+
+Analysis completed Tue May 14 01:20:05 2019.
+
+
+Run 2:  Fri May 17 01:16:27 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\5_ordem\SONNET\cauer_5_ordem_2_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Fri May 17 01:16:27 2019.
+
+
+Run 2:  Thu May 23 20:39:33 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\5_ordem\SONNET\cauer_5_ordem_2_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu May 23 20:39:33 2019.
+
+
+Run 2:  Thu May 23 20:41:47 2019.  SL290709.106431.
+        Em version 15.53-Lite (32-bit Windows) on DESKTOP-1CMJ3DP local.
+
+  Project:  C:\Users\Arihe\Desktop\Filtros- TCC\CAUER\5_ordem\SONNET\cauer_5_ordem_2_90.son.
+
+    Post-Analysis:
+      Total time for 0 frequencies:  0 seconds.
+
+Analysis completed Thu May 23 20:41:47 2019.
